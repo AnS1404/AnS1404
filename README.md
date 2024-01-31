@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anushika Sharma</h1>
 <h3 align="center">An aspiring Data Scientist</h3>
 
-<img align="right" alt="coding" width="400px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<img align="right" alt="coding" width="300px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 - 🌱 I’m currently learning **JavaScript, TensorFlow and basics of Machine Learning**
 
