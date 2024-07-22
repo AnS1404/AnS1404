@@ -7,8 +7,6 @@
 
 - 📝 I regularly write articles on [https://twitter.com/_anushikasharma](https://twitter.com/_anushikasharma)
 
-- 💬 Ask me about **Python, MySQL**
-
 - 📫 How to reach me **anushika.sharma950@gmail.com**
 
 - ⚡ Fun fact **I think I code**
