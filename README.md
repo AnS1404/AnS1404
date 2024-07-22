@@ -3,13 +3,11 @@
 
 <img align="right" alt="coding" width="300px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
-- 🌱 I’m currently learning  about **Backend Development and Data Analytics**
+- 🌱 I’m currently learning about **Backend Development and Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnS1404](https://github.com/AnS1404)
 
 - 📝 I regularly write articles on [https://twitter.com/_anushikasharma](https://twitter.com/_anushikasharma)
-
-- 💬 Ask me about **Python, MySQL**
 
 - 📫 How to reach me **anushika.sharma950@gmail.com**
 
